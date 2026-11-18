@@ -1,0 +1,1 @@
+AI-assisted implementation scaffold. Student must run the experiments, use actual outputs, complete the analysis, and follow institutional AI-use/disclosure rules. Do not submit fabricated or unverified scores.\n
